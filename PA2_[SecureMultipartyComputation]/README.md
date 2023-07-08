@@ -21,7 +21,7 @@ Because the server aided implementation is somehow broken, was asked to find a s
   [your-disk]:[name-path]> make 
  ```
 
-To run it you will need 3 terminals, 1 for a server and 2 for the two clients:
+To run it you will need 3 terminals, 1 for a server and 2 for the two clients:<br>
 [Server]
  ```shellscript
   [your-disk]:[name-path]> ./psi_server_aided -r 0 
@@ -38,3 +38,4 @@ To run it you will need 3 terminals, 1 for a server and 2 for the two clients:
 - To run python code "logistic_regression.py" it's recommend to use a Linux system.
 - NEVER use our implementation in any real scenario, because is super inefficient xD
 - The dataset "songs_normalize.csv" is from: https://www.kaggle.com/code/keremkarayaz/spotify-song-list/input
+- The other implementations used are from: https://github.com/rscmendes/PSI/tree/benchmark
