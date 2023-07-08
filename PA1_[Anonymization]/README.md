@@ -26,3 +26,4 @@ In the final steps of this project we analyse the utility of the privacy models 
 - To understand what are and how the commands work see the statement and the report files
 - To run python code "addnames.py", the file "cardio_train.csv" must be in the same folder
 - To run python code "logistic_regression.py", the file "TREINO_MIX.csv" must be in the same folder. This file is the initial dataset anonymized by the ARX.
+- The dataset "cardio_train.csv" is from: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
