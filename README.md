@@ -19,7 +19,7 @@ Consists in develop a group of projects related with Security and Privacy where 
 1. [ARX](https://arx.deidentifier.org/downloads/)(PA1)
 2. Python
     - [Version 3.9](https://www.python.org/downloads/release/python-390/)
-3. PSI(https://github.com/rscmendes/PSI)(PA2)
+3. [PSI](https://github.com/rscmendes/PSI)(PA2)
 
 
 ## Notes important to read:
