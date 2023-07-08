@@ -14,13 +14,14 @@ Consists in develop a group of projects related with Security and Privacy where 
 
 #### Main Languages:
 ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA)
+![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6)
 
 ## Technologies used:
 1. [ARX](https://arx.deidentifier.org/downloads/)(PA1)
 2. Python
     - [Version 3.9](https://www.python.org/downloads/release/python-390/)
 3. [PSI](https://github.com/rscmendes/PSI)(PA2)
-
+4. C++ ([documentation](https://devdocs.io/cpp/))(PA2)
 
 ## Notes important to read:
    - In this repository I have various projects, the way to execute each project it's different so check the respective folders to know how to run them.
